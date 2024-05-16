@@ -24,7 +24,7 @@ This project involves the development of an IoT-enabled solar tracking system th
 
 ## Schematic Diagram
 
-![Schematic Diagram](https://drive.google.com/file/d/1xy6wegZcLUVimbRP5SgMEylFMIvNMCjG/view?usp=sharing)
+(Schematic Diagram)[https://drive.google.com/file/d/1xy6wegZcLUVimbRP5SgMEylFMIvNMCjG/view?usp=sharing]
 
 ## Getting Started 🚀
 
