@@ -101,6 +101,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements 🙏
 
 - Thanks to the open-source community for providing the tools and libraries used in this project.
+- Thanks to my team.
 - Special thanks to [Blynk](https://blynk.io) for their IoT platform.
 
 ---
